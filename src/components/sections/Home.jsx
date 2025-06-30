@@ -12,7 +12,7 @@ export const Home = () => {
           {/* Left Side - Developer Image */}
           <div className="w-full md:w-1/2 flex justify-center">
             <img
-              src="/images/femi.png" 
+              src="/public/images/femi.png" 
               alt="Oyewole Oluwafemi"
               className="w-64 h-64 md:w-80 md:h-80 object-cover rounded-full shadow-lg"
             />
